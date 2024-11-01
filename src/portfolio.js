@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Sourabh Kumar",
-  title: "Hi all, I'm Sourabh",
+  username: "Sneha Giranje",
+  title: "Hi all, I'm Sneha",
   subTitle: emoji(
     "A Tech Enthusiast | YouTuber | Software Developer  🚀 having an experience of building SaaS application with Python / Java / Go  and some other cool libraries and frameworks."
   ),
@@ -33,13 +33,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Sourabh-Kumar7",
-  linkedin: "https://www.linkedin.com/in/sourabhkumar08/",
-  gmail: "sourabh7.tech@gmail.com",
-  gitlab: "https://gitlab.com/Sourabh-Kumar7",
+  github: "https://github.com/snehagiranje27",
+  linkedin: "https://www.linkedin.com/in/snehagiranje/",
+  gmail: "snehagiranje05@gmail.com",
+//  gitlab: "https://gitlab.com/Sourabh-Kumar7",
   // facebook: "https://www.facebook.com/sourabhkumar",
-  medium: "https://medium.com/@sourabhkr",
-  stackoverflow: "https://stackoverflow.com/users/23549941/sourabh-kumar",
+  medium: "https://medium.com/@snehagiranje05",
+//  stackoverflow: "https://stackoverflow.com/users/23549941/sourabh-kumar",
   youtube: "https://www.youtube.com/@PairProgramming101",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -350,7 +350,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1-0000000000",
-  email_address: "sourabh7.tech@gmail.com"
+  email_address: "snehagiranje05@gmail.com"
 };
 
 // Twitter Section
